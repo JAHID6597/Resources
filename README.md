@@ -203,4 +203,36 @@
 
   </details>
   
+  <details>
+      <summary><strong>Menu Components</strong></summary> 
+    
+  - [Davidde Sidebars](https://github.com/davidde/sidebars)
+      - [Demo](https://davidde.github.io/sidebars)
+  - [React Laag](https://github.com/everweij/react-laag)
+      - [Demo](https://www.react-laag.com)
+  - [React Inheritable Context Menu](https://github.com/n8tz/react-inheritable-context-menu)    
+  - [React Data Menu](https://github.com/dkozar/react-data-menu)
+  - [React Simple Tree Menu](https://iannbing.github.io/react-simple-tree-menu/?path=/story/treemenu--default-usage)    
+  - [React Aria Menu Button](https://github.com/davidtheclark/react-aria-menubutton)    
+  - [Cheeseburger Menu](https://github.com/Middlerun/cheeseburger-menu)
+      - [Demo](https://codesandbox.io/s/qxL744Qx2)
+  - [React Menu List](https://github.com/StreakYC/react-menu-list)
+  - [React horizontal scrolling menu](https://github.com/asmyshlyaev177/react-horizontal-scrolling-menu)
+      - [Demo](https://codesandbox.io/s/lpjol1opmq)
+  - [React Bootstrap Dropdown Menu](https://github.com/grizzthedj/react-bootstrap-dropdown-menu)    
+  - [React Infinity Menu](https://github.com/socialtables/react-infinity-menu)
+     - [Demo](http://socialtables.github.io/react-infinity-menu)
+  - [React Contexify](https://github.com/fkhadra/react-contexify)    
+  - [React Motion Drawer](https://github.com/stoeffel/react-motion-drawer)   
+  - [React Push Menu](https://github.com/lwhiteley/react-push-menu)
+  - [React Metis Menu](https://github.com/alpertuna/react-metismenu)    
+      - [Demo](https://alpertuna.github.io/react-metismenu)
+  - [Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
+      - [Demo](https://vutran.github.io/react-offcanvas)
+  - [React Sidebar 2.3](https://github.com/balloob/react-sidebar)
+  - [React Burger Menu](https://github.com/negomi/react-burger-menu)
+      - [Demo](http://negomi.github.io/react-burger-menu)
+  - [React Native Dropdown Menu](https://github.com/WheelerLee/react-native-dropdown-menu) 
+    
+  </details>
 </details>
