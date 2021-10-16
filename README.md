@@ -61,7 +61,6 @@
   - [Sketch App Sources](https://www.sketchappsources.com)
   - [Storyset](https://storyset.com)
   - [Stubborn](https://stubborn.fun)
-  - [Svg Backgrounds](https://www.svgbackgrounds.com)
   - [The Pattern Library](http://thepatternlibrary.com)
   - [Transparent Textures](https://www.transparenttextures.com)
   - [Ui Design Daily](https://www.uidesigndaily.com)
@@ -73,7 +72,14 @@
 
 </details>
   
+<details>
+  <summary><strong>SVG</strong></summary>
   
+  - [Svg Backgrounds](https://www.svgbackgrounds.com)
+  - [BGJar](https://bgjar.com)
+  - [Hero Patterns](https://www.heropatterns.com)
+  
+</details> 
 
 <details>
   <summary><strong>Icons</strong></summary>
