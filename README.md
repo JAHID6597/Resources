@@ -75,9 +75,10 @@
 <details>
   <summary><strong>SVG</strong></summary>
   
-  - [Svg Backgrounds](https://www.svgbackgrounds.com)
   - [BGJar](https://bgjar.com)
   - [Hero Patterns](https://www.heropatterns.com)
+  - [Svg Backgrounds](https://www.svgbackgrounds.com)
+  - [SVGeez](https://www.svgeez.com)
   
 </details> 
 
