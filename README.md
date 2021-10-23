@@ -192,8 +192,7 @@
   - [Intro to CSS 3d transforms](https://3dtransforms.desandro.com)
   - [Flexy Boxes](https://the-echoplex.net/flexyboxes)
   - [Enjoy CSS](https://enjoycss.com)
-  - []()
-  - []()
+  - [CSS Gradient](https://cssgradient.io)
 
 </details>
 
