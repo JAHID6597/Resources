@@ -175,6 +175,30 @@
 
 
 <details>
+  <summary><strong>CSS</strong></summary>  
+
+  - [CSS Generator Tool](https://cssgenerator.org)
+  - [CSS clip-path maker](https://bennettfeely.com/clippy)
+  - [CSS3 Generator](https://css3generator.com)
+  - [Capsize](https://seek-oss.github.io/capsize)
+  - [Cubic Bezier](https://cubic-bezier.com)
+  - [Easing Gradients](https://larsenwork.com/easing-gradients)
+  - [FANCY-BORDER-RADIUS](https://9elements.github.io/fancy-border-radius)
+  - [Get Waves](https://getwaves.io/)
+  - [KeyFrames](https://keyframes.app)
+  - [Patternify](http://www.patternify.com)
+  - [Smooth Shadow generator](https://shadows.brumm.af)
+  - [WAIT! Animate](https://waitanimate.wstone.io)
+  - [Intro to CSS 3d transforms](https://3dtransforms.desandro.com)
+  - [Flexy Boxes](https://the-echoplex.net/flexyboxes)
+  - [Enjoy CSS](https://enjoycss.com)
+  - []()
+  - []()
+
+</details>
+
+
+<details>
   <summary><strong>Bootstrap</strong></summary>  
 
   - [Bootstrap 5 CheatSheet](https://bootstrap-cheatsheet.themeselection.com)
