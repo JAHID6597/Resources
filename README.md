@@ -197,6 +197,34 @@
 </details>
 
 
+
+<details>
+  <summary><strong>CSS Animations</strong></summary>  
+  
+  - [AniJS](http://anijs.github.io/)
+  - [AnimXYZ](https://animxyz.com/)
+  - [Animate On Scroll Library](https://michalsnik.github.io/aos/?fbclid=IwAR3la5dcaPnMu79K1aMVjOsWlYJRF1bX6uGBA5X3v8ktaOCR-lyYR-BdVPQ)
+  - [Animate.css](https://animate.style)
+  - [AnimeJS](https://animejs.com)
+  - [Animista](https://animista.net/)
+  - [Bounce.js](http://bouncejs.com)
+  - [CSShake](http://elrumordelaluz.github.io/csshake/)
+  - [HAMBURGERS](https://jonsuh.com/hamburgers/)
+  - [Hover.css](http://ianlunn.github.io/Hover/)
+  - [Infinite](https://tilomitra.github.io/infinite/)
+  - [Keyframes](https://keyframes.app/)
+  - [MOTION UI](https://zurb.com/playground/motion-ui)
+  - [Magic Animations CSS3](https://www.minimamente.com/project/magic/)
+  - [Motion One](https://motion.dev/)
+  - [OBNOXIOUS.CSS](https://tholman.com/obnoxious/)
+  - [SVG Artista](https://svgartista.net/)
+  - [Sequencejs](https://www.sequencejs.com/)
+  - [Zdog](https://zzz.dog/)
+  
+</details>
+
+
+
 <details>
   <summary><strong>Bootstrap</strong></summary>  
 
@@ -212,7 +240,7 @@
   
 <details>
   <summary><strong>React</strong></summary>  
-  
+  <p></p>
   <details>
       <summary><strong>Table Components</strong></summary> 
 
@@ -264,6 +292,16 @@
   - [React Burger Menu](https://github.com/negomi/react-burger-menu)
       - [Demo](http://negomi.github.io/react-burger-menu)
   - [React Native Dropdown Menu](https://github.com/WheelerLee/react-native-dropdown-menu) 
+    
+  </details>
+  
+  <details>
+      <summary><strong>Animations</strong></summary> 
+      
+  - [Framer Motion](https://www.framer.com/motion/)
+  - [React Reveal](https://www.react-reveal.com/examples)
+  - [React Spring](https://react-spring.io/)
+  - [React Transition Group](https://reactcommunity.org/react-transition-group/)   
     
   </details>
 </details>
