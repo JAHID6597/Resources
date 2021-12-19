@@ -208,7 +208,8 @@
   - [AnimeJS](https://animejs.com)
   - [Animista](https://animista.net/)
   - [Bounce.js](http://bouncejs.com)
-  - [CSShake](http://elrumordelaluz.github.io/csshake/)
+  - [CSShake](http://elrumordelaluz.github.io/csshake)
+  - [Direction Reveal](https://nigelotoole.github.io/direction-reveal)
   - [HAMBURGERS](https://jonsuh.com/hamburgers/)
   - [Hover.css](http://ianlunn.github.io/Hover/)
   - [Infinite](https://tilomitra.github.io/infinite/)
@@ -301,7 +302,20 @@
   - [Framer Motion](https://www.framer.com/motion/)
   - [React Reveal](https://www.react-reveal.com/examples)
   - [React Spring](https://react-spring.io/)
-  - [React Transition Group](https://reactcommunity.org/react-transition-group/)   
+  - [React Transition Group](https://reactcommunity.org/react-transition-group) 
+  
     
   </details>
+  
+  <details>
+      <summary><strong>Slides</strong></summary> 
+      
+  - [React Compare Slider](https://react-compare-slider.vercel.app)
+  - [React Ranger](https://www.npmjs.com/package/react-ranger)
+  - [React Touch Drag Slider](https://www.npmjs.com/package/react-touch-drag-slider)
+  - [React Responsive Carousel JS](http://react-responsive-carousel.js.org/storybook)
+  - [REROUSEL](https://rerousel.netlify.app)
+  - [Swipeable Carousel](https://trendyol.github.io/react-carousel/docs/swipible)
+ 
+  </details>  
 </details>
