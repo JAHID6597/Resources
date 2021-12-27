@@ -71,7 +71,9 @@
   - [Vecteezy](https://www.vecteezy.com)
 
 </details>
-  
+
+
+
 <details>
   <summary><strong>SVG</strong></summary>
   
@@ -81,6 +83,8 @@
   - [SVGeez](https://www.svgeez.com)
   
 </details> 
+
+
 
 <details>
   <summary><strong>Icons</strong></summary>
@@ -137,9 +141,9 @@
   - [zondicons](https://www.zondicons.com/icons.html)
 
 </details>
-  
-  
-  
+
+
+
 <details>
   <summary><strong>Fonts</strong></summary>
   
@@ -201,26 +205,26 @@
 <details>
   <summary><strong>CSS Animations</strong></summary>  
   
-  - [AniJS](http://anijs.github.io/)
-  - [AnimXYZ](https://animxyz.com/)
+  - [AniJS](http://anijs.github.io)
+  - [AnimXYZ](https://animxyz.com)
   - [Animate On Scroll Library](https://michalsnik.github.io/aos/?fbclid=IwAR3la5dcaPnMu79K1aMVjOsWlYJRF1bX6uGBA5X3v8ktaOCR-lyYR-BdVPQ)
   - [Animate.css](https://animate.style)
   - [AnimeJS](https://animejs.com)
-  - [Animista](https://animista.net/)
+  - [Animista](https://animista.net)
   - [Bounce.js](http://bouncejs.com)
   - [CSShake](http://elrumordelaluz.github.io/csshake)
   - [Direction Reveal](https://nigelotoole.github.io/direction-reveal)
-  - [HAMBURGERS](https://jonsuh.com/hamburgers/)
-  - [Hover.css](http://ianlunn.github.io/Hover/)
-  - [Infinite](https://tilomitra.github.io/infinite/)
-  - [Keyframes](https://keyframes.app/)
+  - [HAMBURGERS](https://jonsuh.com/hamburgers)
+  - [Hover.css](http://ianlunn.github.io/Hover)
+  - [Infinite](https://tilomitra.github.io/infinite)
+  - [Keyframes](https://keyframes.app)
   - [MOTION UI](https://zurb.com/playground/motion-ui)
-  - [Magic Animations CSS3](https://www.minimamente.com/project/magic/)
-  - [Motion One](https://motion.dev/)
-  - [OBNOXIOUS.CSS](https://tholman.com/obnoxious/)
-  - [SVG Artista](https://svgartista.net/)
-  - [Sequencejs](https://www.sequencejs.com/)
-  - [Zdog](https://zzz.dog/)
+  - [Magic Animations CSS3](https://www.minimamente.com/project/magic)
+  - [Motion One](https://motion.dev)
+  - [OBNOXIOUS.CSS](https://tholman.com/obnoxious)
+  - [SVG Artista](https://svgartista.net)
+  - [Sequencejs](https://www.sequencejs.com)
+  - [Zdog](https://zzz.dog)
   
 </details>
 
@@ -236,12 +240,14 @@
   - [Free Sketch Bootstrap 5 UI Kit](https://themeselection.com/products/free-sketch-bootstrap-ui-kit)
 
 </details>
-  
-  
-  
+
+
+
 <details>
   <summary><strong>React</strong></summary>  
   <p></p>
+  
+  
   <details>
       <summary><strong>Table Components</strong></summary> 
 
@@ -262,6 +268,7 @@
   - [Uxcore Table](https://github.com/uxcore/uxcore-table)
 
   </details>
+  
   
   <details>
       <summary><strong>Menu Components</strong></summary> 
@@ -296,6 +303,7 @@
     
   </details>
   
+  
   <details>
       <summary><strong>Animations</strong></summary> 
       
@@ -306,6 +314,7 @@
   
     
   </details>
+  
   
   <details>
       <summary><strong>Slides</strong></summary> 
@@ -318,4 +327,18 @@
   - [Swipeable Carousel](https://trendyol.github.io/react-carousel/docs/swipible)
  
   </details>  
+  
+  
 </details>
+
+
+
+<details>
+  <summary><strong>Web Tools</strong></summary>
+  
+  - [Web Tools](https://webcode.tools)
+  - [Angry Tools](https://angrytools.com)
+  - [Html Code Generator](https://www.html-code-generator.com)
+  
+</details>
+
