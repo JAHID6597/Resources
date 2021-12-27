@@ -342,3 +342,33 @@
   
 </details>
 
+
+
+<details>
+  <summary><strong>SQL</strong></summary>
+  
+  - [SQL Tutorial](https://www.sqltutorial.org)
+  - [SQL Tutorial - javatpoint](https://www.javatpoint.com/sql-tutorial)
+  - [SQL Tutorial for Beginners: Learn SQL in 7 Days](https://www.guru99.com/sql.html)
+  - [SQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/sql/index.htm)
+  - [SQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/sql/index.htm)
+  
+ 
+  <details>
+    <summary><strong>SQL Cheat Sheet</strong></summary>
+  
+   - [sqltutorial](https://www.sqltutorial.org/sql-cheat-sheet)
+   - [learnsql](https://learnsql.com/blog/sql-basics-cheat-sheet)
+   - [websitesetup](https://websitesetup.org/sql-cheat-sheet)
+   - [codecademy](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation/cheatsheet)
+   - [freecodecamp](https://www.freecodecamp.org/news/learn-sql-in-10-minutes)
+   - [dataquest](https://www.dataquest.io/blog/sql-cheat-sheet/)
+   - [intellipaat](https://intellipaat.com/blog/tutorial/sql-tutorial/sql-commands-cheat-sheet)
+   - [guru99](https://www.guru99.com/sql-cheat-sheet.html)
+   - [kanakinfosystems](https://kanakinfosystems.com/blog/sql-cheat-sheet)
+    
+  </details>
+  
+</details>
+
+
