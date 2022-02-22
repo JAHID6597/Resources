@@ -202,6 +202,37 @@
 
 
 
+
+<details>
+  <summary><strong>Tailwind</strong></summary>
+  
+  - [Tailwind CSS](https://tailwindcss.com)
+  - [Tailwind Elements](https://tailwind-elements.com)
+  - [Tailwind Components](https://tailwindcomponents.com)
+  - [Tailblocks](https://tailblocks.cc)
+  - [Meraki UI](https://merakiui.com)
+  - [Tailwind Toolbox](https://www.tailwindtoolbox.com)
+  - [Tailwind Templates](https://tailwindtemplates.io)
+  - [Lofi UI](https://lofiui.co)
+  - [Kitwind](https://kitwind.io)
+  - [Daisy UI](https://daisyui.com)
+  - [Gust UI](https://www.gustui.com)
+  - [FlowBite](https://flowbite.com)
+  - [T React](https://treact.owaiskhan.me)
+  - [Mamba UI](https://mambaui.com)
+  - [Kutty](https://kutty.netlify.app)
+  - [Wicked Blocks](https://wickedtemplates.com)
+  - [Headless UI](https://headlessui.dev)
+  - [TAILWIND STARTER KIT](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+  - [Tailwind UI Kit](https://tailwinduikit.com)
+  - [Tail-Kit](https://www.tailwind-kit.com)
+  - [Tailwind Awesome](https://www.tailwindawesome.com)
+  - [Web 2 Tailwind](https://web2tailwind.com/component/introduction)
+
+</details>
+
+
+
 <details>
   <summary><strong>CSS Animations</strong></summary>  
   
