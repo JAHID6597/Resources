@@ -360,6 +360,14 @@
   </details>  
   
   
+  <details>
+      <summary><strong>SPINNERS</strong></summary> 
+      
+  - [REACT SPINNERS](https://www.davidhu.io/react-spinners/)
+ 
+  </details> 
+  
+  
 </details>
 
 
