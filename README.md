@@ -405,6 +405,8 @@
    - [intellipaat](https://intellipaat.com/blog/tutorial/sql-tutorial/sql-commands-cheat-sheet)
    - [guru99](https://www.guru99.com/sql-cheat-sheet.html)
    - [kanakinfosystems](https://kanakinfosystems.com/blog/sql-cheat-sheet)
+   - [datacamp](https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet)
+   - [interviewbit](https://www.interviewbit.com/sql-cheat-sheet)
     
   </details>
   
